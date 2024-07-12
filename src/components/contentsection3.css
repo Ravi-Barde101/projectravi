@@ -1,0 +1,22 @@
+.Content2-left .left{
+    text-align: center;
+    font-size: 45px;;
+    padding: 15px 0px 10px 0px;
+}
+
+.Content2-right .right{
+    text-align: center;
+    font-size: 45px;
+    padding: 10px 0px 15px 0px;
+}
+.Content2-mid1 .para1{
+    text-align: center;
+    font-size: 50px;
+}
+.Content2-mid1 .para2{
+    text-align: center;
+    font-size: 28px;
+}
+.Content2-mid2 img{
+    width:100%;
+}
